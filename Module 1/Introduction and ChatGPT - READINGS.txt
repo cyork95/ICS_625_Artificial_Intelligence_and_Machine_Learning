@@ -1,0 +1,10 @@
+What major corporate departments are involved in the implementation of AI?
+Pretty much all the corporate departments are in some way involved. Front-line workers, front line supervisers, programmers,
+and management
+
+What level of management support is required to implement AI?
+Full management support is required.
+
+What is the impact of AI on workers?
+Workers are having to change how they do their job to have AI enhance what they do. This may mean retraining and upskilling.
+However, this is causing issues with shrinking entry-level jobs.

@@ -1,0 +1,9 @@
+Prompt written by: <Authors Name>
+
+LLM: OpenAI ChatGPT(March 2023)
+
+Version: GPT-3.5
+
+Date: mm/dd/yyyy
+
+LLM Prompt: <The specific prompt or command that created this document>
